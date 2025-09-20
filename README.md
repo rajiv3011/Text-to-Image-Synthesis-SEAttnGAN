@@ -15,7 +15,7 @@ We analyze performance using **Fréchet Inception Distance (FID)** and showcase
 
 ---
 
-## Literature Review (Shortened)
+## Literature Review 
 
 - **Latent Diffusion Models (LDMs)** → efficient high-resolution synthesis via latent space.  
 - **DF-GAN** → one-stage generator with MA-GP discriminator.  
@@ -76,3 +76,9 @@ We analyze performance using **Fréchet Inception Distance (FID)** and showcase
 | ResNet-WGAN-GP         | ~217       |
 | CLIP Encoder           | ~239       |
 
+## Authors
+- Rajiv Chaudhary (ai22btech11021@iith.ac.in)  
+- Siddhesh Gholap (ai22btech11007@iith.ac.in)  
+- Sudarshan Shivashankar (ai22btech11027@iith.ac.in)  
+- Sai Satwik (ai22btech11025@iith.ac.in)  
+*(IIT Hyderabad)* 
